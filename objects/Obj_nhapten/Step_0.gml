@@ -1,0 +1,1 @@
+global.id = keyboard_string;
